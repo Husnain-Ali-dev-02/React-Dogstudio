@@ -54,7 +54,7 @@ react-dog/
 
 🚀 Getting Started
 1️⃣ Clone the Repository:
-git clone https://github.com/ankurdotio/react-dog.git
+git clone https://github.com/Husnain-Ali-dev-02/React-Dogstudio.git
 
 2️⃣ Install Dependencies:
 npm install
