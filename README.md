@@ -74,17 +74,6 @@ Practice GSAP animation workflows
 
 Demonstrate interactive UI/UX with WebGL
 
-Serve as a portfolio-level frontend showcase
-
-🌱 Future Improvements
-
-Add scroll-based animations
-
-Improve lighting & post-processing
-
-Optimize models & textures
-
-Add mobile-specific interactions
 
 Thank you checking my repository. God bless you.
  
